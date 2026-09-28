@@ -13,6 +13,16 @@ All notable changes to this project will be documented in this file. It uses the
 ### Fixed
 ### Security
 
+## 7.00.2 (2026-09-28)
+[![Downloads Version 7.00.2](https://img.shields.io/endpoint?url=https%3A%2F%2Fzencq.github.io%2Fnomnom%2Fbadges%2Fdownloads%2F7.00.2.json)](https://github.com/zencq/nomnom/releases/tag/7.00.2)
+
+### Added
+* System stats for current system and button to make a Space Station claimable
+
+### Fixed
+* Crash when opening JSON from within the UI editor (e.g., Starships)
+* Crash related to settlements in the latest expedition ([#331](https://github.com/zencq/nomnom/issues/331))
+
 ## 7.00.1 (2026-09-20)
 [![Downloads Version 7.00.1](https://img.shields.io/endpoint?url=https%3A%2F%2Fzencq.github.io%2Fnomnom%2Fbadges%2Fdownloads%2F7.00.1.json)](https://github.com/zencq/nomnom/releases/tag/7.00.1)
 
